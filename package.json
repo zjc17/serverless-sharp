@@ -10,6 +10,8 @@
   "license": "MIT",
   "devDependencies": {
     "@types/aws-lambda": "^8.10.125",
-    "esbuild": "^0.19.5"
+    "@types/node": "^20.8.10",
+    "esbuild": "^0.19.5",
+    "sharp": "^0.32.6"
   }
 }
